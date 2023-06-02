@@ -10,4 +10,5 @@ Java, JPA Hibernate, SpringBoot, Thymeleaf, MySQL, Bootstrap
 
 ------
 
-* 이 외 기능과 관련된 프로젝트 설명은 해당 리파지토리의 ppt파일을 참고해주세요.
+* 이 외 기능과 관련된 프로젝트 설명은 아래 링크를 통해 확인해주세요.
+https://docs.google.com/presentation/d/1q6crrgbBw0BSQP3yqA-Sy-1B8z81WcGg/edit?usp=drive_link&ouid=108894077282428035905&rtpof=true&sd=true
